@@ -21,7 +21,7 @@ Welcome to the rabbit hole!
 - **Project Management:** Skilled in managing projects and leading small, effective teams.
 - **Database Management:** Experienced with various Database Management Systems.
 - **Networking & Server Administration:** Proficient in networking and server administration tasks (Windows Server, Ubuntu Server).
-- **Software Product Development:** Over 15 years of experience in software product development.
+- **Software Development:** I compiled cpp with Borland...
 
 ## 🌱 Learning and Growth
 I love to learn new technologies and continuously improve my skills. If you have any interesting projects or ideas, feel free to reach out!
