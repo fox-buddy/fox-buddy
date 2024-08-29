@@ -10,6 +10,7 @@ Welcome to the rabbit hole!
 - **Languages:** TypeScript, Python, Go, SQL, Bash, C++
 - **Frameworks:** Angular, NestJS, Vue, Ionic
 - **Tools:** Docker, Visual Studio Code, GitHub, Node.js, Kanban Boards, AI
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 ## 🔭 I’m currently working on
 - **Tallyup:** A mobile POS system for various retail industries
