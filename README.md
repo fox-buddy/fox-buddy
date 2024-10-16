@@ -6,7 +6,7 @@ I'm passionate about coding and always eager to learn new things.
 
 Welcome to the rabbit hole!
 
-## 🛠️ Languages and Tools I Like
+## 🛠️ Skillset
 
 <div>
 
