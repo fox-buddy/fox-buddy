@@ -80,3 +80,5 @@ Here are some ideas to get you started:
 ## Most used languages in public repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox-buddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Current Streak
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fox-buddy&theme=transparent" alt="GitHub Streak" /></a>
