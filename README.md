@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fox-buddy&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fox-buddy&theme=radical&mode=weekly&exclude_days=Sun%2CSat&hide_total_contributions=true" alt="GitHub Streak" /></a>
