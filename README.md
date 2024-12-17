@@ -41,7 +41,9 @@ Welcome to the rabbit hole!
 - **Tallyup:** A mobile POS system for various retail industries
 - **Wertsys:** A system to manage recycling depots
 - **Crypto tools**
-- **electronig payment solutions** 
+- **electronig payment solutions**
+- **Stock Data Gathering Solutions**
+- **Trading Algorithms**
 
 ## 👨‍💼 Experience
 - **Project Management:** Skilled in managing projects and leading small, effective teams.
