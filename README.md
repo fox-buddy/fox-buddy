@@ -46,15 +46,16 @@ I'm passionate about coding, avoiding waste work and always eager to learn new t
 
 ## 👨‍💼 Experience
 - **Project Management:** Skilled in managing projects and leading small, effective teams.
+- **Lean Development:** Managing multiple Product Lifecycles under various horizons. Developing working MVPs to a product market fit
 - **Database Management:** Experienced with various Database Management Systems.
 - **Networking & Server Administration:** Proficient in networking and server administration tasks (Windows Server, Ubuntu Server).
-- **Software Development:** I use whatever is best suited to build a solution. Experienced in low level languages like cpp or golang, various web technologies and frameworks (typescript, Angular, VUE...) and even database queries
+- **Software Development:** I use whatever is best suited to build a solution. Experienced in low level languages like cpp or golang, various web technologies and frameworks (typescript, Angular, VUE...) and even database manipulation or querry languages
 
 ## 🌱 Learning and Growth
 I love to learn new technologies and continuously improve my skills. If you have any interesting projects or ideas, feel free to reach out!
 
 ## 💡 Interests
-- Building MVPs
+- Building MVPs and developing them further
 - Crypto Technology
 - Eliminating waste work
 - Probability Management
