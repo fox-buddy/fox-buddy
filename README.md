@@ -48,7 +48,7 @@ I'm passionate about coding, avoiding waste work and always eager to learn new t
 - **Project Management:** Skilled in managing projects and leading small, effective teams.
 - **Database Management:** Experienced with various Database Management Systems.
 - **Networking & Server Administration:** Proficient in networking and server administration tasks (Windows Server, Ubuntu Server).
-- **Software Development:** Experience from cpp, over golang to typescript and various web technologies.
+- **Software Development:** I use whatever is best suited to build a solution. Experienced in low level languages like cpp or golang, various web technologies and frameworks (typescript, Angular, VUE...) and even database queries
 
 ## 🌱 Learning and Growth
 I love to learn new technologies and continuously improve my skills. If you have any interesting projects or ideas, feel free to reach out!
