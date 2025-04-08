@@ -4,7 +4,6 @@
 Somehow I got to where I am, and now the people around me have to deal with me. 
 I'm passionate about coding, avoiding waste work and always eager to learn new things.
 
-Welcome to the rabbit hole!
 
 ## 🛠️ Skillset
 
