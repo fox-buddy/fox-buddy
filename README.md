@@ -40,9 +40,9 @@ I'm passionate about coding, avoiding waste work and always eager to learn new t
 - **Tallyup:** A mobile POS system for various retail industries
 - **Wertsys:** A system to manage recycling depots
 - **Crypto tools**
-- **electronig payment solutions**
-- **Stock Data Gathering Solutions**
-- **Trading Algorithms**
+- **electronic payment solutions**
+- **Automatic Stock Data Analytics**
+- **Price Alert Trading Algorithms**
 
 ## 👨‍💼 Experience
 - **Project Management:** Skilled in managing projects and leading small, effective teams.
