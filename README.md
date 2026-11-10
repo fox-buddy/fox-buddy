@@ -1,9 +1,4 @@
 
-coding
-avoiding waste work
-learn new things.
-
-
 ## 🛠️ Skillset
 
 <div>
