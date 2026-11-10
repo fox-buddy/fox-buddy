@@ -64,7 +64,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Most used languages in public repos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox-buddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
