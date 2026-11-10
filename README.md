@@ -1,8 +1,7 @@
 
-# 👋
-
-Somehow I got to where I am, and now the people around me have to deal with me. 
-I'm passionate about coding, avoiding waste work and always eager to learn new things.
+coding
+avoiding waste work
+learn new things.
 
 
 ## 🛠️ Skillset
@@ -37,7 +36,6 @@ I'm passionate about coding, avoiding waste work and always eager to learn new t
 </div>
 
 ## 🔭 I’m currently working on
-- **Tallyup:** A mobile POS system for various retail industries
 - **Wertsys:** A system to manage recycling depots
 - **Crypto tools**
 - **electronic payment solutions**
@@ -50,19 +48,6 @@ I'm passionate about coding, avoiding waste work and always eager to learn new t
 - **Database Management:** Experienced with various Database Management Systems.
 - **Networking & Server Administration:** Proficient in networking and server administration tasks (Windows Server, Ubuntu Server).
 - **Software Development:** I use whatever is best suited to build a solution. Experienced in low level languages like cpp or golang, various web technologies and frameworks (typescript, Angular, VUE...) and even database manipulation or querry languages
-
-## 🌱 Learning and Growth
-I love to learn new technologies and continuously improve my skills. If you have any interesting projects or ideas, feel free to reach out!
-
-## 💡 Interests
-- Building MVPs and developing them further
-- Crypto Technology
-- Eliminating waste work
-- Probability Management
-- Automation
-
-## 📫 Get in Touch
-- **Email:** torstendavid@protonmail.com
 
 <!--
 **fox-buddy/fox-buddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
